@@ -1,0 +1,17 @@
+Django
+Fabric
+Mezzanine
+Pillow
+Unidecode
+beets
+bleach
+cuisine
+filebrowser-safe
+grappelli-safe
+html5lib
+munkres
+musicbrainzngs
+mutagen
+paramiko
+pycrypto
+pytz
