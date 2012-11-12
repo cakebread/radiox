@@ -33,23 +33,19 @@ or Shoutcast server. Liquidsoap is written in oCaml.
 RadioX can be put into request mode where listeners cand send SMS
 text messages or Jabber IMs to search for and request songs.
 
-At this time, RadioX consists of a Cuisine fab file for provisioning
-and deploying Airtime and Icecast2, broadcasting sample songs out of the box.
-It's easily installed using Vagrant on your local machine.
-
 I would love to develop a Django front-end for Airtime to be an alternate
 front-end for the existing php one that comes with it and contribute
 it back to Airtime, if they wish. This is low priority, as the php one 
 works great, it would just be a pleasure to hack on a Python front-end.
 
 Ok, this is "README-driven" development, so these features aren't all 
-implemented yet. Here is what you can do today with the Cuisine fab file:
+implemented yet, but here is what you can do today with the Cuisine fab file:
 
  * Install an Ubuntu 12.04 system on a VirtualBox locally via Vagrant with a 
  running Airtime installation, already streaming music.
 
  * A Django / Mezzanine app installed locally ready to set up with show 
- schedules, current playing info live from the stream, etc.:w
+ schedules, current playing info live from the stream, etc.
  
 
 
