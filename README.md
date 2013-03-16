@@ -1,5 +1,4 @@
 
-
 RadioX
 ======
 
@@ -63,8 +62,8 @@ your local Linux box using Vagrant:
 
     Now check it out:
 
-    $ mplayer http://localhost:/9999/airtime_128 # Icecast ogg stream
-    $ firefox http://localhost/:9080  # Airtime web interface
+    $ mplayer http://localhost:9999/airtime_128 # Icecast ogg stream
+    $ firefox http://localhost:9080  # Airtime web interface
 
 A few sample songs are in the library and your radio station is now
 streaming music!
